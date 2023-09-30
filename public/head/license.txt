@@ -1,0 +1,11 @@
+Model Information:
+* title:	WX-78 Head Model
+* source:	https://sketchfab.com/3d-models/wx-78-head-model-fe0e7782ac294f3b9b98adf73b44210b
+* author:	Kaine_G (https://sketchfab.com/Kaine_G)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WX-78 Head Model" (https://sketchfab.com/3d-models/wx-78-head-model-fe0e7782ac294f3b9b98adf73b44210b) by Kaine_G (https://sketchfab.com/Kaine_G) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
